@@ -11,6 +11,12 @@ body {
   background-position: left;
 }
 
+/* Textos Detalles de trabajos */
+.my-3 {
+color:cornflowerblue
+}
+
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
